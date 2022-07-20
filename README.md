@@ -10,9 +10,9 @@ It was developed by Ryan Dahl in 2014, before that JS cant be run on server.<br>
 
 Features of NodeJS:
 
-It’s easy to get started and can be used for prototyping and agile development
-It provides fast and highly scalable services
-It uses JavaScript everywhere, so it’s easy for a JavaScript programmer to build back-end services using Node.js
-Source code cleaner and consistent.
-Large ecosystem for open source library.
-It has Asynchronous or Non-blocking nature.
+It’s easy to get started and can be used for prototyping and agile development<br>
+It provides fast and highly scalable services<br>
+It uses JavaScript everywhere, so it’s easy for a JavaScript programmer to build back-end services using Node.js<br>
+Source code cleaner and consistent.<br>
+Large ecosystem for open source library.<br>
+It has Asynchronous or Non-blocking nature.<br>
